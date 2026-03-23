@@ -26,6 +26,14 @@ The live site demonstrates the complete multi-step form with all design and func
 
 ---
 
+## Tools & Plugins
+
+- **Elementor** – used for building page layouts and sections.  
+- **ElementsKit** – used for advanced widgets and layout features.  
+- **Simple CSS** – used to manage custom CSS styling for the multi-step form.  
+- **WP SMTP** – configured for reliable email delivery.  
+- **Child Theme** – built on top of Hello Elementor.  
+
 ## Custom CSS
 
 All additional styling to match the Figma design is included in `plugins/simple-css`.  
